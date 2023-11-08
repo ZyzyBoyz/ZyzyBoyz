@@ -2,7 +2,8 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on date
-- 📫 How to reach me M
+- 📫 search me on google ma
+- 
 
 <!---
 ZyzyBoyz/ZyzyBoyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
